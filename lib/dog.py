@@ -9,8 +9,3 @@ class Dog:
         pass
     #Instance method definition
     pass
-
-class Person:
-    def talk(self):
-        pass
-    pass
